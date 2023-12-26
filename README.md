@@ -9,4 +9,5 @@ Key Highlights:-
 3. Involved in creating Data model,Implemented data transfigurations with DAX for accurate analysis and reporting.
 
 PBIX File link:-https://drive.google.com/file/d/1c3Mac2g1ELKUVeUknWryFEspG5hLBYnX/view?usp=sharing
+
 PDF link:-https://drive.google.com/file/d/1d2sZZcCGXGtqlz7ZnSicNek0nsyXR6b2/view?usp=sharing
